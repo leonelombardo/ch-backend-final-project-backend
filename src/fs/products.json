@@ -1,0 +1,72 @@
+[
+	{
+		"id": "8dcf8da5-4446-4d29-8825-a6b5e7c0af86",
+		"title": "iPhone 13",
+		"description": "The iPhone 13 is the latest model of Apple's smartphone with improved performance, an advanced camera, and a vibrant display.",
+		"category": "Phone",
+		"thumbnails": [
+			"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-finish-select-202207-6-1inch-pink?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1657641867367"
+		],
+		"stock": 50,
+		"price": 999,
+		"code": "IPH13-001",
+		"status": true,
+		"owner": "janedoe@gmail.com"
+	},
+	{
+		"id": "f8696d2b-76ba-42c8-a94f-6140f39cef33",
+		"title": "MacBook Pro (2022)",
+		"description": "The MacBook Pro (2022) is a powerful laptop designed for professionals with a high-resolution display and exceptional performance.",
+		"category": "Laptop",
+		"thumbnails": [
+			"https://www.apple.com/newsroom/images/product/mac/standard/Apple-MacBook-Pro-M2-Pro-and-M2-Max-hero-230117.jpg.og.jpg?202305252050"
+		],
+		"stock": 20,
+		"price": 1999,
+		"code": "MBP22-001",
+		"status": true,
+		"owner": "janedoe@gmail.com"
+	},
+	{
+		"id": "17f3955e-49fb-48bb-af8b-63916b7c96fd",
+		"title": "Samsung QLED 4K TV",
+		"description": "The Samsung QLED 4K TV offers stunning picture quality with vivid colors and deep blacks, along with smart features for an enhanced viewing experience.",
+		"category": "Television",
+		"thumbnails": [
+			"https://i5.walmartimages.com/asr/fdc3b040-7dc6-4e5c-bf2d-f08dda4be683.4692a4f1c0dfb8b9ec41ba3f8459732a.jpeg"
+		],
+		"stock": 30,
+		"price": 1499,
+		"code": "QLED4K-001",
+		"status": true,
+		"owner": "admincoderhouse@gmail.com"
+	},
+	{
+		"id": "0aa43e6a-662b-456c-9442-b22daa027cf8",
+		"title": "Sony PlayStation 5",
+		"description": "The Sony PlayStation 5 is the next-generation gaming console with high-quality graphics, fast loading speeds, and a wide range of exciting titles.",
+		"category": "Gaming Console",
+		"thumbnails": [
+			"https://images.tcdn.com.br/img/img_prod/893885/console_playstation_5_jogo_fifa_23_2735_1_66dd0d7b91ba7f03c086d1cdacccba04.jpg"
+		],
+		"stock": 15,
+		"price": 499,
+		"code": "PS5-001",
+		"status": true,
+		"owner": "admincoderhouse@gmail.com"
+	},
+	{
+		"id": "fa5ef75c-0ea3-440b-b3e1-40772adbc852",
+		"title": "Xbox Series X",
+		"description": "The Xbox Series X is Microsoft's latest gaming console with powerful hardware, high-quality graphics, and fast loading times for an immersive gaming experience.",
+		"category": "Gaming Console",
+		"thumbnails": [
+			"https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4mRni?ver=8361"
+		],
+		"stock": 25,
+		"price": 499,
+		"code": "XBX-001",
+		"status": true,
+		"owner": "janedoe@gmail.com"
+	}
+]

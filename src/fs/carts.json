@@ -1,0 +1,27 @@
+[
+	{
+		"id": "49c9323e-fcab-4a26-a273-f9e56162e1b9",
+		"products": [
+			{
+				"product": "8dcf8da5-4446-4d29-8825-a6b5e7c0af86",
+				"quantity": 8
+			},
+			{
+				"product": "f8696d2b-76ba-42c8-a94f-6140f39cef33",
+				"quantity": 4
+			},
+			{
+				"product": "17f3955e-49fb-48bb-af8b-63916b7c96fd",
+				"quantity": 12
+			},
+			{
+				"product": "0aa43e6a-662b-456c-9442-b22daa027cf8",
+				"quantity": 7
+			},
+			{
+				"product": "fa5ef75c-0ea3-440b-b3e1-40772adbc852",
+				"quantity": 3
+			}
+		]
+	}
+]

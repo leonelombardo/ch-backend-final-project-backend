@@ -1,0 +1,49 @@
+[
+	{
+		"id": "5b7ed1c7-7e27-403f-8d49-f6d726294ba1",
+		"first_name": "Jane",
+		"last_name": "Doe",
+		"email": "janedoe@gmail.com",
+		"age": 26,
+		"password": "$2b$10$cDdCUleu4Sx19/TaSQfU2Od.5rvOMKulMNQWeu8tvSfwF1d2uQNMK",
+		"role": "user",
+		"cart": [],
+		"documents": [],
+		"last_connection": "6/30/2023, 6:38:41 PM"
+	},
+	{
+		"id": "f7209d84-2362-4c8f-ad91-b45ae4538507",
+		"first_name": "John",
+		"last_name": "Doe",
+		"email": "johndoe@gmail.com",
+		"age": 23,
+		"password": "$2b$10$uQw6DRaNmUXs6e37JqRVL.WE4BryHD0EW9qt9DelHLGS/mBAo5pO2",
+		"role": "user",
+		"documents": [],
+		"last_connection": "6/29/2023, 7:01:22 PM"
+	},
+	{
+		"id": "3dd59b79-d7bc-4095-b1c5-b3a97e2855cb",
+		"first_name": "User",
+		"last_name": "Test",
+		"email": "usertest@gmail.com",
+		"age": 23,
+		"password": "$2b$10$VF4S9GYUqWZO6GO2ztjlweBIYFHDFrjwuhmp0HUcljaeZUq7QyldG",
+		"role": "user",
+		"cart": [],
+		"documents": [],
+		"last_connection": "6/30/2023, 5:29:20 PM"
+	},
+	{
+		"id": "17bf3b52-7b01-4a42-bf21-066f298401da",
+		"first_name": "Admin",
+		"last_name": "Test",
+		"email": "admintest@gmail.com",
+		"age": 23,
+		"password": "$2b$10$PpHlWw.PRwalE1I4JQKW1uAD5Anmeyk8igIsppdV/e2tcNoi9Y3cW",
+		"role": "admin",
+		"cart": [],
+		"documents": [],
+		"last_connection": "7/1/2023, 6:55:01 AM"
+	}
+]
